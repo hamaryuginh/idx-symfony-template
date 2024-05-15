@@ -45,7 +45,7 @@
     workspace = {
       # Runs when a workspace is first created
       onCreate = {
-        symfony-install = "symfony new --no-git --dir=_symfony && cp -R _symfony/* . && rm -rf _symfony";
+        symfony-install = "symfony new --no-git --dir=_symfony && cp -R _symfony/. . && rm -rf _symfony";
       };
       onStart = {
         # Example: start a background task to watch and re-build backend code
