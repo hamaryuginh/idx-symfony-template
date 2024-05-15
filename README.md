@@ -1,6 +1,20 @@
-# My symfony project
+# Symfony Template
 
-Use this repository as starting template on a new IDX project.
+Use this template repository to create a new IDX project.
+
+## Usage 
+
+* Go to [IDX Symfony Template](https://github.com/hamaryuginh/idx-symfony-template)
+
+* Use this template to create a new repository
+
+![](./docs/assets/01-use-template.png "Use this template")
+
+* Use your new repository to create a new project on IDX
+
+![](./docs/assets/02-import-repo.png "Import a repo")
+
+* Have fun!
 
 ## IDX Project customizing
 
